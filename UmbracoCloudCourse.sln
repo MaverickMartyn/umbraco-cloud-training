@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "UmbracoCloudCourse.Web", "UmbracoCloudCourse.Web\", "{2584E7DA-FE46-4319-8C89-31AA6F357F83}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		ProjectReferences = "{26f6599b-e765-4156-a240-375ad90f5b3e}|UmbracoCloudCourse.Core.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_5492"
 		Debug.AspNetCompiler.PhysicalPath = "UmbracoCloudCourse.Web\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_5492\"
