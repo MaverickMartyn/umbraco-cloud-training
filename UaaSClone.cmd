@@ -1,0 +1,1 @@
+git clone https://dev-cloud-maf-konxion-dk.scm.s1.umbraco.io/a1a2b79f-9f9b-4f35-a4c3-d9d86b61ccef.git UmbracoCloudCourse.Web
